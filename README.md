@@ -62,7 +62,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/nilou1998/nestora.git
 ```
 
 Navigate to the project:

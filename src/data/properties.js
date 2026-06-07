@@ -2,7 +2,7 @@ export const properties = [
   {
     id: 1,
     type: "Apartment",
-    image: "/src/assets/images/image-7.jpeg",
+    image: "/images/image-7.jpeg",
     bedrooms: 2,
     bathrooms: 1,
     surface: 95,
@@ -14,7 +14,7 @@ export const properties = [
   {
     id: 2,
     type: "Villa",
-    image: "/src/assets/images/image2.jpeg",
+    image: "/images/image2.jpeg",
     bedrooms: 4,
     bathrooms: 3,
     surface: 280,
@@ -26,7 +26,7 @@ export const properties = [
   {
     id: 3,
     type: "Studio",
-    image: "/src/assets/images/image-3.jpeg",
+    image: "/images/image-3.jpeg",
     bedrooms: 1,
     bathrooms: 1,
     surface: 55,
@@ -38,7 +38,7 @@ export const properties = [
   {
     id: 4,
     type: "Townhouse",
-    image: "/src/assets/images/image-4.jpeg",
+    image: "/images/image-4.jpeg",
     bedrooms: 3,
     bathrooms: 2,
     surface: 165,
@@ -50,7 +50,7 @@ export const properties = [
   {
     id: 5,
     type: "Apartment",
-    image: "/src/assets/images/image-5.jpeg",
+    image: "/images/image-5.jpeg",
     bedrooms: 3,
     bathrooms: 2,
     surface: 130,
@@ -62,7 +62,7 @@ export const properties = [
   {
     id: 6,
     type: "Penthouse",
-    image: "/src/assets/images/image-6.jpeg",
+    image: "/images/image-6.jpeg",
     bedrooms: 4,
     bathrooms: 4,
     surface: 320,
@@ -74,7 +74,7 @@ export const properties = [
   {
     id: 7,
     type: "Apartment",
-    image: "/src/assets/images/image-9.jpeg",
+    image: "/images/image-9.jpeg",
     bedrooms: 2,
     bathrooms: 2,
     surface: 110,
@@ -86,7 +86,7 @@ export const properties = [
   {
     id: 8,
     type: "Villa",
-    image: "/src/assets/images/image-8.jpeg",
+    image: "/images/image-8.jpeg",
     bedrooms: 5,
     bathrooms: 4,
     surface: 350,
